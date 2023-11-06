@@ -1,7 +1,6 @@
 # Cloudy
 Cloudy is a comprehensive weather app that provides up-to-date weather information for any location
 **KEY FEATURES**
-
 1 Real-time weather data
 2 Location-based weather forecasts
 3 Hourly and daily forecasts
